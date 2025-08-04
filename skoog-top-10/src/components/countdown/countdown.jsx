@@ -30,7 +30,7 @@ const CountdownToDate = ({ targetDate }) => {
     }, [targetDate]);
 
     if (!timeLeft) {
-        return <div className="text-3xl text-center font-bold">Time's up!</div>;
+        return <div className="countdown-to-date"> 🥳 Released 🎶</div>;
     }
 
     return (

@@ -1,7 +1,11 @@
 .app {
   background: linear-gradient(#AEFF96, #86BEFF);
-  height: 100vh;
+  height: 100%;
   width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+  padding-bottom: 50px;
 }
 
 @media (min-width: 900px) {

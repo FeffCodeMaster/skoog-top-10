@@ -1,0 +1,22 @@
+.profile {
+    width: 160px;
+    padding: 10px 20px;
+}
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px #1DB954 solid;
+    flex: 1;
+    margin: auto;
+    margin: 10px 20px;
+}
+
+.profile-name {
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: 32px;
+    text-align: center;
+    width: 100%;
+}

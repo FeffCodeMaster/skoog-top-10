@@ -1,0 +1,20 @@
+.home {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.home-release-section {
+    padding: 10px;
+}
+
+@media (min-width: 900px) {
+    .home-release-section {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        column-gap: 10px;
+        flex-grow: 1;
+        padding: unset;
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "nextToRelease": {
+        "name": "Elin",
+        "deadline": "2025-08-07T16:00:00"
+    },
+    "latestRelease": {
+        "name": "Isabel",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/37i9dQZEVXcQ5cT7ptml4g?utm_source=generator"
+    },
+    "categories": [
+        "Top 10 Greatest"
+    ],
+    "releases": [
+        {
+            "name": "Isabel",
+            "catergory": "Top 10 Greatest",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/37i9dQZEVXcQ5cT7ptml4g?utm_source=generator"
+        }
+    ],
+    "members": [
+        {
+            "name": "Elin",
+            "fullName": "Elin Skoog",
+            "img": "elin.jpg"
+        },
+        {
+            "name": "Isabel",
+            "fullName": "Isabel Eliasson",
+            "img": "isabel.jpg"
+        }
+    ]
+}
