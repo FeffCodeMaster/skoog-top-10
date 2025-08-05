@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+.release-list-subtitle {
+    font-weight: normal;
+    text-align: center;
+}
+
 .release-list-container {
     padding: 10px 0;
 }

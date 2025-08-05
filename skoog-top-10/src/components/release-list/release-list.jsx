@@ -11,7 +11,8 @@ const ReleaseList = ({ catergory }) => {
 
     return <div className="release-list">
         <SectionWrapper>
-            <h2 className="release-list-title">{`CATEGORY: ${catergory}`}</h2>
+            <h1 className="release-list-title">CATEGORY</h1>
+            <h2 className="release-list-subtitle">{`${catergory}`}</h2>
             <div className="release-list-container">
                 {config.releases && config.releases.map(release => {
                     if (release.catergory === catergory) {
