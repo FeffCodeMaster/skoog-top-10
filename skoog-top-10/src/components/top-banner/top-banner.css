@@ -18,11 +18,13 @@
 
 @media (min-width: 900px) {
     .top-banner {
-        height: 45vh;
+        height: 100vh;
+        background-size: cover;
+        background-position: center center;
     }
 
     .top-banner-title {
-        line-height: 40vh;
+        line-height: 100vh;
     }
 
 }

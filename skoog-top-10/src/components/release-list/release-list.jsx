@@ -3,17 +3,17 @@ import config from "../../assets/configuration.json";
 
 import "./release-list.css";
 
-const ReleaseList = () => {
+const ReleaseList = ({ catergory }) => {
     const getImgUrlByName = (name) => {
         return config.members.find(x => x.name === name).img;
     }
 
     return <div className="release-list">
         <SectionWrapper>
-            <h2 className="release-list-title">CATEGORY - "Top 10 Greatest Songs"</h2>
+            <h2 className="release-list-title">{`CATEGORY: ${catergory}`}</h2>
             <div className="release-list-container">
-                {config.releases.map(release => {
-                    if (release.catergory === "Top 10 Greatest") {
+                {config.releases && config.releases.map(release => {
+                    if (release.catergory === catergory) {
                         return <div className="release-list-item-container">
                             <img className="release-list-img" src={require(`../../assets/members/${getImgUrlByName(release.name)}`)} />
                             <div className="release-list-name">{release.name}</div>

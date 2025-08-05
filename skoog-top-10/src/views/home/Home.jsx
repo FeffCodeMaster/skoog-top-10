@@ -8,7 +8,6 @@ import "./home.css"
 
 const Home = () => {
     const releases = config.releases.map(x => x.catergory === "Top 10 Greatest");
-    console.log(releases);
 
     return <div className="home">
         <TopBannerComponent />
@@ -17,9 +16,8 @@ const Home = () => {
             <CountdownSection />
         </div>
         <div className="home-release-list">
-            <ReleaseList />
+            <ReleaseList catergory={"Top 10 Best Songs"} />
         </div>
-
     </div >
 }
 

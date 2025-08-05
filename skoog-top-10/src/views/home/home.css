@@ -9,6 +9,10 @@
     padding: 0 10px;
 }
 
+.home-release-list {
+    margin: 10px 0;
+}
+
 @media (min-width: 900px) {
     .home-release-section {
         display: flex;
@@ -16,10 +20,13 @@
         width: 100%;
         column-gap: 10px;
         flex-grow: 1;
+
     }
 
     .home-release-section,
     .home-release-list {
         padding: unset;
+        width: 60vw;
+        margin: auto;
     }
 }
