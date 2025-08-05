@@ -21,7 +21,7 @@ const LatestReleaseSection = () => {
     return <div className="latest-release-section">
         <SectionWrapper>
             <div className="latest-release-section-container">
-                <div className="latest-release-section-title">🎵 Latest Playlist 🎶</div>
+                <div className="latest-release-section-title">Latest Playlist 🎶</div>
                 <Profile className="latest-release-section-profile" name={member.name} img={member.img} />
                 <iframe data-testid="embed-iframe" src={latestRelease.spotifyLink} width="100%" height="152" frameBorder="0" allowFullScreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
