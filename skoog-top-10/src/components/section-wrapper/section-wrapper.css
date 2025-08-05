@@ -1,6 +1,6 @@
 .section-wrapper {
-    background: rgba(47, 47, 47, 0.25);
-    border-radius: 5px;
+    background: rgba(47, 47, 47, 0.1);
+    border-radius: 10px;
     height: 100%;
 }
 
