@@ -1,0 +1,39 @@
+.release-list {}
+
+.release-list-title {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+.release-list-container {
+    padding: 10px 0;
+}
+
+.release-list-item-container {
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+
+.release-list-img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 5px #1DB954 solid;
+}
+
+.release-list-name {
+    font-size: 24px;
+    line-height: 80px;
+    margin-left: 10px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.release-list-link {
+    font-size: 24px;
+    line-height: 80px;
+    text-align: right;
+    flex-grow: 1;
+    color: white;
+}
