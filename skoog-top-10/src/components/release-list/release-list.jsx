@@ -1,5 +1,6 @@
 import SectionWrapper from "../section-wrapper/section-wrapper";
 import config from "../../assets/configuration.json";
+import ProfileBlob from "../profile-blob/profile-blob";
 
 import "./release-list.css";
 
@@ -15,7 +16,7 @@ const ReleaseList = ({ catergory }) => {
                 {config.releases && config.releases.map(release => {
                     if (release.catergory === catergory) {
                         return <div className="release-list-item-container">
-                            <img className="release-list-img" src={require(`../../assets/members/${getImgUrlByName(release.name)}`)} />
+                            <ProfileBlob className="release-list-blob" imgUrl={require(`../../assets/members/${getImgUrlByName(release.name)}`)} />
                             <div className="release-list-name">{release.name}</div>
                             <a className="release-list-link" href={release.spotifyLink}>Playlist</a>
                         </div>

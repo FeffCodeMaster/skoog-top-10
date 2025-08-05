@@ -16,11 +16,9 @@
     border-bottom: 2px solid white;
 }
 
-.release-list-img {
+.release-list-blob {
     width: 75px;
     height: 75px;
-    border-radius: 50%;
-    border: 5px #1DB954 solid;
 }
 
 .release-list-name {
