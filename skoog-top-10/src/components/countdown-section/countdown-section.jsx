@@ -13,7 +13,7 @@ const CountdownSection = () => {
         <div className="countdown-section">
             <SectionWrapper>
                 <div>
-                    <div className="countdown-section-title">Next to Share their playlist</div>
+                    <div className="countdown-section-title">Next to share their playlist</div>
                     <Profile className={"countdown-section-profile"} name={member.name} img={member.img} />
                     <div className="countdown-section-countdown-container">
                         <span className="countdown-section-countdown-title">Countdown to reveal</span>
