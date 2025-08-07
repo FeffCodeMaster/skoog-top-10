@@ -20,3 +20,13 @@
 .latest-release-section-profile {
     margin: auto;
 }
+
+.latest-release-section-player {
+    height: 750px;
+}
+
+@media (min-width: 900px) {
+    .latest-release-section-player {
+        height: 160px;
+    }
+}
