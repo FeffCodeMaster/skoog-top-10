@@ -1,0 +1,42 @@
+.release-list {}
+
+.release-list-title {
+    font-size: 32px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.release-list-subtitle {
+    font-weight: normal;
+    text-align: center;
+}
+
+.release-list-container {
+    padding: 10px 0;
+}
+
+.release-list-item-container {
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+
+.release-list-blob {
+    width: 75px;
+    height: 75px;
+}
+
+.release-list-name {
+    font-size: 24px;
+    line-height: 80px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+.release-list-link {
+    font-size: 24px;
+    line-height: 80px;
+    text-align: right;
+    flex-grow: 1;
+    color: white;
+}

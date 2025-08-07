@@ -1,0 +1,18 @@
+.profile {
+    width: 160px;
+    padding: 10px 20px;
+    position: relative;
+}
+
+.profile-blob {
+    width: 150px;
+    height: 150px;
+}
+
+.profile-name {
+    text-transform: uppercase;
+    font-size: 32px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}

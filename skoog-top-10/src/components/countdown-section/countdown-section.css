@@ -1,0 +1,25 @@
+.countdown-section {
+    text-align: center;
+    margin: 10px 0;
+    flex: 1;
+}
+
+.countdown-section-profile {
+    margin: auto;
+}
+
+.countdown-section-title {
+    font-size: 32px;
+
+}
+
+.countdown-section-countdown-title {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.countdown-section-countdown-container {
+    padding: 28px 0;
+    background: rgba(45, 175, 169, 0.25);
+    border-radius: 10px;
+}

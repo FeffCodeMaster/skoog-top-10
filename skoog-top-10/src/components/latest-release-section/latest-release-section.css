@@ -1,0 +1,22 @@
+.latest-release-section {
+    text-align: center;
+    margin: 10px 0;
+    flex: 1;
+    position: relative;
+}
+
+.latest-release-section-title {
+    font-size: 32px;
+}
+
+.latest-release-section-no-release {
+    font-size: 24px;
+    position: absolute;
+    width: 100%;
+    top: calc(50% - 20px);
+    left: 0;
+}
+
+.latest-release-section-profile {
+    margin: auto;
+}
