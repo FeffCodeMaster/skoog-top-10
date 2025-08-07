@@ -21,12 +21,52 @@
         {
             "name": "Elin",
             "fullName": "Elin Skoog",
-            "img": "elin.jpg"
+            "img": "elin.png"
         },
         {
             "name": "Isabel",
             "fullName": "Isabel Eliasson",
-            "img": "isabel.jpg"
+            "img": "isabel.png"
+        },
+        {
+            "name": "Bengt",
+            "fullName": "Bengt Skoog",
+            "img": "bengt.png"
+        },
+        {
+            "name": "Anki",
+            "fullName": "Anki Skoog",
+            "img": "anki.png"
+        },
+        {
+            "name": "Fernando",
+            "fullName": "Fernando Marcos",
+            "img": "fernando.png"
+        },
+        {
+            "name": "Jeff",
+            "fullName": "Jeff Jörlinden",
+            "img": "jeff.png"
+        },
+        {
+            "name": "Feffe",
+            "fullName": "Fredrik Skoog",
+            "img": "fredrik.png"
+        },
+        {
+            "name": "Anna",
+            "fullName": "Anna Larsson",
+            "img": "anna.png"
+        },
+        {
+            "name": "Dan",
+            "fullName": "Dan Larsson",
+            "img": "dan.png"
+        },
+        {
+            "name": "Emma",
+            "fullName": "Emma Skoog",
+            "img": "emma.png"
         }
     ]
 }
