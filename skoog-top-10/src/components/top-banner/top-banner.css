@@ -1,6 +1,6 @@
 .top-banner {
     position: relative;
-    height: 25vh;
+    height: 26vh;
     background-image: url('../../assets/top-bar.jpeg');
     background-size: cover;
 }
@@ -8,7 +8,7 @@
 .top-banner-title {
     width: 100%;
     height: 100%;
-    line-height: 25vh;
+    line-height: 26vh;
     font-size: 8vw;
     text-align: center;
     color: white;
@@ -16,15 +16,24 @@
 }
 
 
-@media (min-width: 900px) {
+@media (min-width: 769px) {
     .top-banner {
-        height: 100vh;
+        height: 75vh;
         background-size: cover;
         background-position: center center;
     }
 
     .top-banner-title {
-        line-height: 100vh;
+        line-height: 75vh;
+    }
+}
+
+@media (min-width: 1200px) {
+    .top-banner {
+        height: 100vh;
     }
 
+    .top-banner-title {
+        line-height: 100vh;
+    }
 }

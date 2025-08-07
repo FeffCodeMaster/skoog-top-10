@@ -26,7 +26,17 @@
     .home-release-section,
     .home-release-list {
         padding: unset;
-        width: 60vw;
+        width: 90vw;
+        margin: auto;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .home-release-section,
+    .home-release-list {
+        padding: unset;
+        width: 80vw;
         margin: auto;
     }
 }
