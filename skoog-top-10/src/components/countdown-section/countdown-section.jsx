@@ -14,9 +14,9 @@ const CountdownSection = () => {
             <SectionWrapper>
                 <div>
                     <div className="countdown-section-title">Next release 🚀</div>
-                    <Profile className={"countdown-section-profile"} name={member.name} img={member.img} />
+                    <Profile className={"countdown-section-profile"} name={member?.name} img={member?.img} />
                     <div className="countdown-section-countdown-container">
-                        <span className="countdown-section-countdown-title">Time until EPIC drop</span>
+                        <span className="countdown-section-countdown-title">Time until next reveal</span>
                         <Countdown targetDate={deadline} />
                     </div>
                 </div>
