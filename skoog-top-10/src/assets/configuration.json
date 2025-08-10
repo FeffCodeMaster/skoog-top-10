@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
-        "name": "Feffe",
-        "deadline": "2025-08-10T15:00:00"
+        "name": "",
+        "deadline": "2025-08-10T19:30:00"
     },
     "latestRelease": {
-        "name": "Elin",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/3vECveZ6dldaxPWyThBiXk?utm_source=generator"
+        "name": "Feffe",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/3AKOew4ZlBPLbxjtBXdAps?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -15,6 +15,11 @@
             "name": "Elin",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/3vECveZ6dldaxPWyThBiXk?utm_source=generator"
+        },
+        {
+            "name": "Feffe",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/3AKOew4ZlBPLbxjtBXdAps?utm_source=generator"
         }
     ],
     "members": [
