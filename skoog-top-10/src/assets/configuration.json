@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
-        "name": "Jeff",
-        "deadline": "2025-08-14T17:00:00"
+        "name": "",
+        "deadline": "2025-08-15T19:00:00"
     },
     "latestRelease": {
-        "name": "Feffe",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/3AKOew4ZlBPLbxjtBXdAps?utm_source=generator"
+        "name": "Jeff",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/4Rl9pQpuf5pBwGzmBMDXbg?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -20,6 +20,11 @@
             "name": "Feffe",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/3AKOew4ZlBPLbxjtBXdAps?utm_source=generator"
+        },
+        {
+            "name": "Jeff",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/4Rl9pQpuf5pBwGzmBMDXbg?utm_source=generator"
         }
     ],
     "members": [
