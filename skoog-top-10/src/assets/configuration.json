@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
-        "name": "Bengt",
+        "name": "",
         "deadline": "2025-08-17T17:00:00"
     },
     "latestRelease": {
-        "name": "Jeff",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/4Rl9pQpuf5pBwGzmBMDXbg?utm_source=generator"
+        "name": "Bengt",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/2Z81lwUwuJfiHXaw5hYwFP?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -25,6 +25,11 @@
             "name": "Jeff",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/4Rl9pQpuf5pBwGzmBMDXbg?utm_source=generator"
+        },
+        {
+            "name": "Bengt",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/2Z81lwUwuJfiHXaw5hYwFP?utm_source=generator"
         }
     ],
     "members": [
