@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
-        "name": "Isabel",
-        "deadline": "2025-08-21T19:00:00"
+        "name": "",
+        "deadline": "2025-08-22T19:00:00"
     },
     "latestRelease": {
-        "name": "Bengt",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/2Z81lwUwuJfiHXaw5hYwFP?utm_source=generator"
+        "name": "Isabel",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/0eTBYzFzd4Q79DkNeCcqjD?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -30,6 +30,11 @@
             "name": "Bengt",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/2Z81lwUwuJfiHXaw5hYwFP?utm_source=generator"
+        },
+        {
+            "name": "Isabel",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/0eTBYzFzd4Q79DkNeCcqjD?utm_source=generator"
         }
     ],
     "members": [
