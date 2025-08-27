@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
         "name": "",
-        "deadline": "2025-08-22T19:00:00"
+        "deadline": "2025-08-29T19:00:00"
     },
     "latestRelease": {
-        "name": "Isabel",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/0eTBYzFzd4Q79DkNeCcqjD?utm_source=generator"
+        "name": "Dan",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/64h7rLe9O2PdVf4CV9Z35E?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -35,6 +35,11 @@
             "name": "Isabel",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/0eTBYzFzd4Q79DkNeCcqjD?utm_source=generator"
+        },
+        {
+            "name": "Dan",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/64h7rLe9O2PdVf4CV9Z35E?utm_source=generator"
         }
     ],
     "members": [
