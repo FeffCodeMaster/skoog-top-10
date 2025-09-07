@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
         "name": "",
-        "deadline": "2025-09-07T19:00:00"
+        "deadline": "2025-09-11T19:00:00"
     },
     "latestRelease": {
-        "name": "Anna",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/3wt8L8wT3lZ2h3Oc2ott5W?utm_source=generator"
+        "name": "Anki",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/6LlMlkKH69kMSvt2aXqsG7?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -45,6 +45,11 @@
             "name": "Anna",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/3wt8L8wT3lZ2h3Oc2ott5W?utm_source=generator"
+        },
+        {
+            "name": "Anki",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/6LlMlkKH69kMSvt2aXqsG7?utm_source=generator"
         }
     ],
     "members": [
