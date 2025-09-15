@@ -13,6 +13,22 @@
     margin: 10px 0;
 }
 
+.home-youtube-container {
+    flex: 1;
+    margin: 10px 0;
+}
+
+.home-youtube-container-title {
+    font-size: 32px;
+    text-align: center;
+}
+
+
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
 @media (min-width: 900px) {
     .home-release-section {
         display: flex;
