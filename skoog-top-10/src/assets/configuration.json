@@ -4,8 +4,8 @@
         "deadline": "2025-09-11T19:00:00"
     },
     "latestRelease": {
-        "name": "Fernando",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/66L30TFxl44vBeaEX90fl2?utm_source=generator"
+        "name": "Emma",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/6xiAuxM0q9CFj5B0JLcStY?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs"
@@ -55,6 +55,11 @@
             "name": "Fernando",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/66L30TFxl44vBeaEX90fl2?utm_source=generator"
+        },
+        {
+            "name": "Emma",
+            "catergory": "Top 10 Best Songs",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/6xiAuxM0q9CFj5B0JLcStY?utm_source=generator"
         }
     ],
     "members": [
