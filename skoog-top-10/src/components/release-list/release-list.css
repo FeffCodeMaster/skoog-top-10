@@ -1,4 +1,6 @@
-.release-list {}
+.release-list {
+    padding-bottom: 10px;
+}
 
 .release-list-title {
     font-size: 32px;
