@@ -17,6 +17,7 @@ const Home = () => {
             <CountdownSection />
         </div>
         <div className="home-release-list">
+            <ReleaseList catergory={"Movies, Series, and Game Music"} />
             <ReleaseList catergory={"Fall 2025"} />
             <ReleaseList catergory={"Top 10 Best Songs"} />
         </div>

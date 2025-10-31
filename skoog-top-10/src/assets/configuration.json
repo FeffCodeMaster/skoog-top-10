@@ -5,11 +5,12 @@
     },
     "latestRelease": {
         "name": "Bengt",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/0ilZQzMBad01NJR2lZNGFj?utm_source=generator"
+        "spotifyLink": "https://open.spotify.com/embed/playlist/5ksUZBPM8BJBCBEwj0U9lk?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs",
-        "Fall 2025"
+        "Fall 2025",
+        "Movies, Series, and Game Music"
     ],
     "releases": [
         {
@@ -66,6 +67,11 @@
             "name": "Bengt",
             "catergory": "Fall 2025",
             "spotifyLink": "https://open.spotify.com/embed/playlist/0ilZQzMBad01NJR2lZNGFj?utm_source=generator"
+        },
+        {
+            "name": "Bengt",
+            "catergory": "Movies, Series, and Game Music",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/5ksUZBPM8BJBCBEwj0U9lk?utm_source=generator"
         }
     ],
     "members": [
