@@ -1,11 +1,11 @@
 {
     "nextToRelease": {
-        "name": "Anna",
-        "deadline": "2025-11-01T19:00:00"
+        "name": "Axel",
+        "deadline": "2025-11-02T19:00:00"
     },
     "latestRelease": {
-        "name": "Bengt",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/5ksUZBPM8BJBCBEwj0U9lk?utm_source=generator"
+        "name": "Anna",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/3WAwHEYtF7iA5cvPh9hR7r?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs",
@@ -72,6 +72,11 @@
             "name": "Bengt",
             "catergory": "Movies, Series, and Game Music",
             "spotifyLink": "https://open.spotify.com/embed/playlist/5ksUZBPM8BJBCBEwj0U9lk?utm_source=generator"
+        },
+        {
+            "name": "Anna",
+            "catergory": "Movies, Series, and Game Music",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/3WAwHEYtF7iA5cvPh9hR7r?utm_source=generator"
         }
     ],
     "members": [
@@ -124,6 +129,36 @@
             "name": "Emma",
             "fullName": "Emma Skoog",
             "img": "emma.png"
+        },
+        {
+            "name": "Alberto",
+            "fullName": "Alberto Marcos Skoog",
+            "img": "Albert.png"
+        },
+        {
+            "name": "Axel",
+            "fullName": "Axel Larsson",
+            "img": "Axel.png"
+        },
+        {
+            "name": "Kalle",
+            "fullName": "Kalle Larsson",
+            "img": "Kalle.png"
+        },
+        {
+            "name": "Leah",
+            "fullName": "Leah Eliasson",
+            "img": "Leah.png"
+        },
+        {
+            "name": "Oskar",
+            "fullName": "Oskar Marcos Skoog",
+            "img": "Oskar.png"
+        },
+        {
+            "name": "Vera",
+            "fullName": "Vera Larsson",
+            "img": "Vera.png"
         }
     ]
 }
