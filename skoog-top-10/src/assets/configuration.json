@@ -4,8 +4,8 @@
         "deadline": "2025-11-06T19:00:00"
     },
     "latestRelease": {
-        "name": "Axel",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/0yaKvpMxwQ3OzaUkrzgfdP?utm_source=generato"
+        "name": "Elin",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/0y8tuHAcTzvhu9aAR5Jp9L?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs",
@@ -82,6 +82,11 @@
             "name": "Axel",
             "catergory": "Top 10 Best Songs",
             "spotifyLink": "https://open.spotify.com/embed/playlist/0yaKvpMxwQ3OzaUkrzgfdP?utm_source=generator"
+        },
+        {
+            "name": "Elin",
+            "catergory": "Movies, Series, and Game Music",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/0y8tuHAcTzvhu9aAR5Jp9L?utm_source=generator"
         }
     ],
     "members": [
