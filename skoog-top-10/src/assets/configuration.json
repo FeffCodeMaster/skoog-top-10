@@ -4,8 +4,8 @@
         "deadline": "2025-11-06T19:00:00"
     },
     "latestRelease": {
-        "name": "Elin",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/0y8tuHAcTzvhu9aAR5Jp9L?utm_source=generator"
+        "name": "Feffe",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/2iFkKhhUBXlek1iTOtMuUQ?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs",
@@ -87,6 +87,11 @@
             "name": "Elin",
             "catergory": "Movies, Series, and Game Music",
             "spotifyLink": "https://open.spotify.com/embed/playlist/0y8tuHAcTzvhu9aAR5Jp9L?utm_source=generator"
+        },
+        {
+            "name": "Feffe",
+            "catergory": "Movies, Series, and Game Music",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/2iFkKhhUBXlek1iTOtMuUQ?utm_source=generator"
         }
     ],
     "members": [
