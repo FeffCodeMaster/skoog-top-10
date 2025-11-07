@@ -14,7 +14,6 @@ const Home = () => {
         <TopBannerComponent />
         <div className="home-release-section">
             <LatestReleaseSection />
-            <CountdownSection />
         </div>
         <div className="home-release-list">
             <ReleaseList catergory={"Movies, Series, and Game Music"} />
