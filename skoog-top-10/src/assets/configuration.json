@@ -4,8 +4,8 @@
         "deadline": "2025-11-06T19:00:00"
     },
     "latestRelease": {
-        "name": "Anki",
-        "spotifyLink": "https://open.spotify.com/embed/playlist/2ZE13DJUsSdm273R1tS42y?utm_source=generator"
+        "name": "Emma",
+        "spotifyLink": "https://open.spotify.com/embed/playlist/462DMq1syxztUFQha1nmmz?utm_source=generator"
     },
     "categories": [
         "Top 10 Best Songs",
@@ -97,6 +97,11 @@
             "name": "Anki",
             "catergory": "Movies, Series, and Game Music",
             "spotifyLink": "https://open.spotify.com/embed/playlist/2ZE13DJUsSdm273R1tS42y?utm_source=generator"
+        },
+        {
+            "name": "Emma",
+            "catergory": "Movies, Series, and Game Music",
+            "spotifyLink": "https://open.spotify.com/embed/playlist/462DMq1syxztUFQha1nmmz?utm_source=generator"
         }
     ],
     "members": [
